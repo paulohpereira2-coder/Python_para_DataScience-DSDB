@@ -3,7 +3,6 @@
 # variavel para armazenar o nome do aluno
 
 nome_aluno = 'Rocky' # declara a variavel
-
 idade_aluno = 15 # variavel com a idade do aluno
 media_aluno = 8.45 # declaração de variavel
 
